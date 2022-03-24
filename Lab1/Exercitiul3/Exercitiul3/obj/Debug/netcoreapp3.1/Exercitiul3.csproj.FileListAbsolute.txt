@@ -1,0 +1,13 @@
+D:\Faculta AN3\Sem2\II\Lab1\Exercitiul3\Exercitiul3\bin\Debug\netcoreapp3.1\Exercitiul3.exe
+D:\Faculta AN3\Sem2\II\Lab1\Exercitiul3\Exercitiul3\bin\Debug\netcoreapp3.1\Exercitiul3.deps.json
+D:\Faculta AN3\Sem2\II\Lab1\Exercitiul3\Exercitiul3\bin\Debug\netcoreapp3.1\Exercitiul3.runtimeconfig.json
+D:\Faculta AN3\Sem2\II\Lab1\Exercitiul3\Exercitiul3\bin\Debug\netcoreapp3.1\Exercitiul3.runtimeconfig.dev.json
+D:\Faculta AN3\Sem2\II\Lab1\Exercitiul3\Exercitiul3\bin\Debug\netcoreapp3.1\Exercitiul3.dll
+D:\Faculta AN3\Sem2\II\Lab1\Exercitiul3\Exercitiul3\bin\Debug\netcoreapp3.1\Exercitiul3.pdb
+D:\Faculta AN3\Sem2\II\Lab1\Exercitiul3\Exercitiul3\obj\Debug\netcoreapp3.1\Exercitiul3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faculta AN3\Sem2\II\Lab1\Exercitiul3\Exercitiul3\obj\Debug\netcoreapp3.1\Exercitiul3.AssemblyInfoInputs.cache
+D:\Faculta AN3\Sem2\II\Lab1\Exercitiul3\Exercitiul3\obj\Debug\netcoreapp3.1\Exercitiul3.AssemblyInfo.cs
+D:\Faculta AN3\Sem2\II\Lab1\Exercitiul3\Exercitiul3\obj\Debug\netcoreapp3.1\Exercitiul3.csproj.CoreCompileInputs.cache
+D:\Faculta AN3\Sem2\II\Lab1\Exercitiul3\Exercitiul3\obj\Debug\netcoreapp3.1\Exercitiul3.dll
+D:\Faculta AN3\Sem2\II\Lab1\Exercitiul3\Exercitiul3\obj\Debug\netcoreapp3.1\Exercitiul3.pdb
+D:\Faculta AN3\Sem2\II\Lab1\Exercitiul3\Exercitiul3\obj\Debug\netcoreapp3.1\Exercitiul3.genruntimeconfig.cache

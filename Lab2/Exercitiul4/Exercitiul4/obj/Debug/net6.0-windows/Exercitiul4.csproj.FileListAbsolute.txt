@@ -1,0 +1,17 @@
+D:\Faculta AN3\Sem2\II\Lab2\Exercitiul4\Exercitiul4\bin\Debug\net6.0-windows\Exercitiul4.exe
+D:\Faculta AN3\Sem2\II\Lab2\Exercitiul4\Exercitiul4\bin\Debug\net6.0-windows\Exercitiul4.deps.json
+D:\Faculta AN3\Sem2\II\Lab2\Exercitiul4\Exercitiul4\bin\Debug\net6.0-windows\Exercitiul4.runtimeconfig.json
+D:\Faculta AN3\Sem2\II\Lab2\Exercitiul4\Exercitiul4\bin\Debug\net6.0-windows\Exercitiul4.dll
+D:\Faculta AN3\Sem2\II\Lab2\Exercitiul4\Exercitiul4\bin\Debug\net6.0-windows\Exercitiul4.pdb
+D:\Faculta AN3\Sem2\II\Lab2\Exercitiul4\Exercitiul4\obj\Debug\net6.0-windows\Exercitiul4.csproj.AssemblyReference.cache
+D:\Faculta AN3\Sem2\II\Lab2\Exercitiul4\Exercitiul4\obj\Debug\net6.0-windows\Exercitiul4.Form1.resources
+D:\Faculta AN3\Sem2\II\Lab2\Exercitiul4\Exercitiul4\obj\Debug\net6.0-windows\Exercitiul4.csproj.GenerateResource.cache
+D:\Faculta AN3\Sem2\II\Lab2\Exercitiul4\Exercitiul4\obj\Debug\net6.0-windows\Exercitiul4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faculta AN3\Sem2\II\Lab2\Exercitiul4\Exercitiul4\obj\Debug\net6.0-windows\Exercitiul4.AssemblyInfoInputs.cache
+D:\Faculta AN3\Sem2\II\Lab2\Exercitiul4\Exercitiul4\obj\Debug\net6.0-windows\Exercitiul4.AssemblyInfo.cs
+D:\Faculta AN3\Sem2\II\Lab2\Exercitiul4\Exercitiul4\obj\Debug\net6.0-windows\Exercitiul4.csproj.CoreCompileInputs.cache
+D:\Faculta AN3\Sem2\II\Lab2\Exercitiul4\Exercitiul4\obj\Debug\net6.0-windows\Exercitiul4.dll
+D:\Faculta AN3\Sem2\II\Lab2\Exercitiul4\Exercitiul4\obj\Debug\net6.0-windows\refint\Exercitiul4.dll
+D:\Faculta AN3\Sem2\II\Lab2\Exercitiul4\Exercitiul4\obj\Debug\net6.0-windows\Exercitiul4.pdb
+D:\Faculta AN3\Sem2\II\Lab2\Exercitiul4\Exercitiul4\obj\Debug\net6.0-windows\Exercitiul4.genruntimeconfig.cache
+D:\Faculta AN3\Sem2\II\Lab2\Exercitiul4\Exercitiul4\obj\Debug\net6.0-windows\ref\Exercitiul4.dll

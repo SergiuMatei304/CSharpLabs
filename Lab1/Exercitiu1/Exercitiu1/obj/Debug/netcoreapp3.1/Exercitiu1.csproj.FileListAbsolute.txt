@@ -1,0 +1,14 @@
+D:\Faculta AN3\Sem2\II\Lab1\Exercitiu1\Exercitiu1\bin\Debug\netcoreapp3.1\Exercitiu1.exe
+D:\Faculta AN3\Sem2\II\Lab1\Exercitiu1\Exercitiu1\bin\Debug\netcoreapp3.1\Exercitiu1.deps.json
+D:\Faculta AN3\Sem2\II\Lab1\Exercitiu1\Exercitiu1\bin\Debug\netcoreapp3.1\Exercitiu1.runtimeconfig.json
+D:\Faculta AN3\Sem2\II\Lab1\Exercitiu1\Exercitiu1\bin\Debug\netcoreapp3.1\Exercitiu1.runtimeconfig.dev.json
+D:\Faculta AN3\Sem2\II\Lab1\Exercitiu1\Exercitiu1\bin\Debug\netcoreapp3.1\Exercitiu1.dll
+D:\Faculta AN3\Sem2\II\Lab1\Exercitiu1\Exercitiu1\bin\Debug\netcoreapp3.1\Exercitiu1.pdb
+D:\Faculta AN3\Sem2\II\Lab1\Exercitiu1\Exercitiu1\obj\Debug\netcoreapp3.1\Exercitiu1.csproj.AssemblyReference.cache
+D:\Faculta AN3\Sem2\II\Lab1\Exercitiu1\Exercitiu1\obj\Debug\netcoreapp3.1\Exercitiu1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faculta AN3\Sem2\II\Lab1\Exercitiu1\Exercitiu1\obj\Debug\netcoreapp3.1\Exercitiu1.AssemblyInfoInputs.cache
+D:\Faculta AN3\Sem2\II\Lab1\Exercitiu1\Exercitiu1\obj\Debug\netcoreapp3.1\Exercitiu1.AssemblyInfo.cs
+D:\Faculta AN3\Sem2\II\Lab1\Exercitiu1\Exercitiu1\obj\Debug\netcoreapp3.1\Exercitiu1.csproj.CoreCompileInputs.cache
+D:\Faculta AN3\Sem2\II\Lab1\Exercitiu1\Exercitiu1\obj\Debug\netcoreapp3.1\Exercitiu1.dll
+D:\Faculta AN3\Sem2\II\Lab1\Exercitiu1\Exercitiu1\obj\Debug\netcoreapp3.1\Exercitiu1.pdb
+D:\Faculta AN3\Sem2\II\Lab1\Exercitiu1\Exercitiu1\obj\Debug\netcoreapp3.1\Exercitiu1.genruntimeconfig.cache

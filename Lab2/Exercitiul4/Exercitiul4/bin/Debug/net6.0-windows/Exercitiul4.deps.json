@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Exercitiul4/1.0.0": {
+        "runtime": {
+          "Exercitiul4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercitiul4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+D:\Faculta AN3\Sem2\II\Lab2\Exercitiul2\Exercitiul2\bin\Debug\net6.0-windows\Exercitiul2.exe
+D:\Faculta AN3\Sem2\II\Lab2\Exercitiul2\Exercitiul2\bin\Debug\net6.0-windows\Exercitiul2.deps.json
+D:\Faculta AN3\Sem2\II\Lab2\Exercitiul2\Exercitiul2\bin\Debug\net6.0-windows\Exercitiul2.runtimeconfig.json
+D:\Faculta AN3\Sem2\II\Lab2\Exercitiul2\Exercitiul2\bin\Debug\net6.0-windows\Exercitiul2.dll
+D:\Faculta AN3\Sem2\II\Lab2\Exercitiul2\Exercitiul2\bin\Debug\net6.0-windows\Exercitiul2.pdb
+D:\Faculta AN3\Sem2\II\Lab2\Exercitiul2\Exercitiul2\obj\Debug\net6.0-windows\Exercitiul2.csproj.AssemblyReference.cache
+D:\Faculta AN3\Sem2\II\Lab2\Exercitiul2\Exercitiul2\obj\Debug\net6.0-windows\Exercitiul2.Form1.resources
+D:\Faculta AN3\Sem2\II\Lab2\Exercitiul2\Exercitiul2\obj\Debug\net6.0-windows\Exercitiul2.csproj.GenerateResource.cache
+D:\Faculta AN3\Sem2\II\Lab2\Exercitiul2\Exercitiul2\obj\Debug\net6.0-windows\Exercitiul2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faculta AN3\Sem2\II\Lab2\Exercitiul2\Exercitiul2\obj\Debug\net6.0-windows\Exercitiul2.AssemblyInfoInputs.cache
+D:\Faculta AN3\Sem2\II\Lab2\Exercitiul2\Exercitiul2\obj\Debug\net6.0-windows\Exercitiul2.AssemblyInfo.cs
+D:\Faculta AN3\Sem2\II\Lab2\Exercitiul2\Exercitiul2\obj\Debug\net6.0-windows\Exercitiul2.csproj.CoreCompileInputs.cache
+D:\Faculta AN3\Sem2\II\Lab2\Exercitiul2\Exercitiul2\obj\Debug\net6.0-windows\Exercitiul2.dll
+D:\Faculta AN3\Sem2\II\Lab2\Exercitiul2\Exercitiul2\obj\Debug\net6.0-windows\refint\Exercitiul2.dll
+D:\Faculta AN3\Sem2\II\Lab2\Exercitiul2\Exercitiul2\obj\Debug\net6.0-windows\Exercitiul2.pdb
+D:\Faculta AN3\Sem2\II\Lab2\Exercitiul2\Exercitiul2\obj\Debug\net6.0-windows\Exercitiul2.genruntimeconfig.cache
+D:\Faculta AN3\Sem2\II\Lab2\Exercitiul2\Exercitiul2\obj\Debug\net6.0-windows\ref\Exercitiul2.dll

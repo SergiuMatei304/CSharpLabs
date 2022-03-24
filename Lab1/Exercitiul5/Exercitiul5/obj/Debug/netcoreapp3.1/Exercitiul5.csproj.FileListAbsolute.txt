@@ -1,0 +1,13 @@
+D:\Faculta AN3\Sem2\II\Lab1\Exercitiul5\Exercitiul5\bin\Debug\netcoreapp3.1\Exercitiul5.exe
+D:\Faculta AN3\Sem2\II\Lab1\Exercitiul5\Exercitiul5\bin\Debug\netcoreapp3.1\Exercitiul5.deps.json
+D:\Faculta AN3\Sem2\II\Lab1\Exercitiul5\Exercitiul5\bin\Debug\netcoreapp3.1\Exercitiul5.runtimeconfig.json
+D:\Faculta AN3\Sem2\II\Lab1\Exercitiul5\Exercitiul5\bin\Debug\netcoreapp3.1\Exercitiul5.runtimeconfig.dev.json
+D:\Faculta AN3\Sem2\II\Lab1\Exercitiul5\Exercitiul5\bin\Debug\netcoreapp3.1\Exercitiul5.dll
+D:\Faculta AN3\Sem2\II\Lab1\Exercitiul5\Exercitiul5\bin\Debug\netcoreapp3.1\Exercitiul5.pdb
+D:\Faculta AN3\Sem2\II\Lab1\Exercitiul5\Exercitiul5\obj\Debug\netcoreapp3.1\Exercitiul5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faculta AN3\Sem2\II\Lab1\Exercitiul5\Exercitiul5\obj\Debug\netcoreapp3.1\Exercitiul5.AssemblyInfoInputs.cache
+D:\Faculta AN3\Sem2\II\Lab1\Exercitiul5\Exercitiul5\obj\Debug\netcoreapp3.1\Exercitiul5.AssemblyInfo.cs
+D:\Faculta AN3\Sem2\II\Lab1\Exercitiul5\Exercitiul5\obj\Debug\netcoreapp3.1\Exercitiul5.csproj.CoreCompileInputs.cache
+D:\Faculta AN3\Sem2\II\Lab1\Exercitiul5\Exercitiul5\obj\Debug\netcoreapp3.1\Exercitiul5.dll
+D:\Faculta AN3\Sem2\II\Lab1\Exercitiul5\Exercitiul5\obj\Debug\netcoreapp3.1\Exercitiul5.pdb
+D:\Faculta AN3\Sem2\II\Lab1\Exercitiul5\Exercitiul5\obj\Debug\netcoreapp3.1\Exercitiul5.genruntimeconfig.cache
